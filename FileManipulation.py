@@ -1,6 +1,7 @@
 '''Question 2: File Manipulation 
 Write a Python script to read a text file, count the occurrences of each word, and display the result. '''
 
+
 def word_count(str):
     
     counts = dict()
