@@ -1,6 +1,7 @@
 '''Question 4: User Authentication 
 Develop a Python program that simulates user authentication. Ask the user to enter a username and password, and validate them against predefined values.  '''
 
+
 def login():  
     username = input("Enter your username: ")  
     password = input("Enter your password: ")  
