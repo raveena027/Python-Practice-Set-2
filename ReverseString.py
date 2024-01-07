@@ -1,6 +1,7 @@
 '''Question 6: Reverse String 
 Write a Python function that takes a sentence as input and returns the sentence with reversed words'''
 
+
 def reverse_sentence(sentence): 
 
     words = sentence.split(' ') 
