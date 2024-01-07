@@ -1,5 +1,6 @@
 '''Question 1: Calculator App 
-Create a Python program that acts as a simple calculator. It should take two numbers and an operator as input and perform the corresponding operation.'''
+Create a Python program that acts as a simple calculator. 
+It should take two numbers and an operator as input and perform the corresponding operation.'''
 
 def add(x, y):
     return x + y
